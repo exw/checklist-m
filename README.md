@@ -2,7 +2,7 @@ Version-controlled procedural information. Step by step instructions and CI scri
 
 # SOPs
 
-ts-init
-cabal-init
+* ts-init
+* cabal-init
 
 # Checklists
